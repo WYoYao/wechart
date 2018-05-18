@@ -4,4 +4,6 @@ module.exports = {
     qrcode: 'qrcode', // 返回登录二维码
     login: 'login',  // 登录成功
     loginType: 'loginType', // 登录方式 重连或者 扫码登录
+    contacts: 'contacts', // 联系人数量
+    avatar: 'avatar', // 个人头像
 };
